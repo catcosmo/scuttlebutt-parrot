@@ -3,9 +3,12 @@
 You will have many iterations of the project template! Do not delete anything, strikeout with date.
 ## 1.	Project Details: These include the summary of the Project
 An encrypted social network feed based on scuttlebutt technologies.
+or: an app enabling people and activists to connect when internet is shut down
 ## 2.	Title: The Title or codename of the project.
 Scuttlebutt Parrot
 ##	3.	Description: A summary defining the objective of the project.
+People grew used to being digitally connected to friends and accuentances through social networks. Established networks provide their infrastructure in exchange for user's data (content and meta-data). This leads to a unbalanced concentration of knowledge (and thus power) on site of social media companies like facebook or google.
+Apart from collecting extensive private information on their user base, these networks have a centralized architecture aand their own rules, meaning that companies control who can write what content and who will see it. They are able to censor, influence and lock out users. 
 
 ##	4.	Stakeholders: Members who are involved with or have requested the project.
 

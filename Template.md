@@ -22,7 +22,7 @@ Apart from collecting extensive private information on their user base, these ne
 ### Centralized Architecture
 Centralized network architectures allow other agencies (eg. governments) to lock down entire citie's or countrie's means of communication. Lockdown of social media services and internet has occured all over the world under totalitarian rule, instable governments or in phases of uproar.
 
-### Solution: Keeping (meta-)data private, encryption and decentralized architecture
+### Solution: Keeping (meta-)data private, encryption of content and decentralized architecture
 Secure scuttlebutt technology (ssb) provides a decentralized architecture (mesh network) for end-to-end-encrypted messaging and news feeds. It is designed after human communication behaviour. Information is spread "mouth-to-mouth", without centralized information hubs or storage. It is a mesh-network completely independent of the internet (as opposed to conventional peer-to-peer networks that depend on the web to provide users access to distributed hash tables). It enables users to communicate independent of infrastructure they have no control over. It keeps data with the user and encrypted, readable only to those supposed to access it. Content can't be tampered with by third parties. There is no log of meta-data enablinng inference on user behaviour.
 
 
@@ -33,9 +33,9 @@ Secure scuttlebutt technology (ssb) provides a decentralized architecture (mesh 
 - People who live in conditions with unreliable network infrastructure (people at sea, remote areas, on a german train).
 
 ##	5.	Impact Assessment: The observed or intended impact of the project deliverable: Who will be affected by this project? How many users? What business processes will be changed as a result of this project?
-- People will communicate more safely
+- Users will communicate more safely
 - People communicate independent of the internet or infrastructure they have no control of
--
+- A neat and easy to use interface will allow more non-tech-savy users to swap to a more secure social network
 
 
 ##	6.	User Requirements: The requirements of the project, as specified by the user.

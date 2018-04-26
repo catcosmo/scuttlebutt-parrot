@@ -4,6 +4,8 @@
 An encrypted social network feed based on scuttlebutt technologies.
 or: an App enabling people and activists to connect and collaborate when internet is shut down
 
+GitHub: https://github.com/catcosmo/scuttlebutt-parrot
+
 ## 2.	Title: The Title or codename of the project.
 Scuttlebutt Parrot
 
@@ -31,11 +33,23 @@ Secure scuttlebutt technology (ssb) provides a decentralized architecture (mesh 
 - People who live in conditions with unreliable network infrastructure (people at sea, remote areas, on a german train).
 
 ##	5.	Impact Assessment: The observed or intended impact of the project deliverable: Who will be affected by this project? How many users? What business processes will be changed as a result of this project?
+- People will communicate more safely
+- People communicate independent of the internet or infrastructure they have no control of
+-
 
 
 ##	6.	User Requirements: The requirements of the project, as specified by the user.
 
+##  6.5 Problems encountered
+### Security issues with node modules
+- Unclear dependencies within node modules and libraries. It is near impossible to thoroughly check all dependencies the app is using. Even if one could, modules and libraries are updated without prior notice allowing for anyone to potentially insert malicious code and backdoors.
+- There is no verification hash for Node module packages, so even if you trusted a developer you cannot be assured that the content of a module you receive hasn't been tampered with on the way.
+
+Because of these issues ssb technology cannot be considered a truly secure means of communication for activists.
+
 ##	7.	Specifications Sheet (Functional Requirements): The technical details of the project, or the deliverables that will be developed and/or designed to meet the user requirements.
+- Node App with JS React
+- build on Secure Scuttlebutt technology
 
 ##	8.	Data Models: Data Flow Diagrams and/or Data Structure Diagrams
 
@@ -44,3 +58,11 @@ Secure scuttlebutt technology (ssb) provides a decentralized architecture (mesh 
 ##	10.	Prototypes: Copies of low or high fidelity screenshots, mockups, models, etc.
 
 ##	11.	Maintenance Notes: Additional notes that would be pertinent to the support of this product.
+
+##  12. Sources and Links
+- official scuttlebutt docs https://www.scuttlebutt.nz/
+- blog entry explaining scuttlebutt https://staltz.com/an-off-grid-social-network.html
+- scuttlebutt app to bring together skills and ideas https://t4l3.net
+- social network in ssb https://github.com/ssbc/patchwork/releases
+- how to write applications in scuttlebutt https://ssbc.github.io/docs/scuttlebot/tutorial.
+- scuttlebutt android app https://github.com/staltz/mmmmm-mobile

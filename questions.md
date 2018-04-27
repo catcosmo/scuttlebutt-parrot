@@ -36,3 +36,17 @@ questions for the questionnaire
 
 ## 13 have you ever experienced some kind of emotions you would descripe as
 ## negative while using a social network?
+
+## 14 how long does it take for you until who stop using a site?
+
+## 15 how important for you are new features?
+
+## 16 in which interval you expect from an page an introduction of new features?
+
+## 17 Would you descripe yourself as an early adapter?
+
+## 18 How long does it take for you to comfortable with an social network?
+
+## 19 How much time do you spend on social networks in average.
+
+## 20 Have you ever submitted a bug to any site?

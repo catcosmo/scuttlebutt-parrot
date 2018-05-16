@@ -37,8 +37,18 @@ Secure scuttlebutt technology (ssb) provides a decentralized architecture (mesh 
 - People communicate independent of the internet or infrastructure they have no control of
 - A neat and easy to use interface will allow more non-tech-savy users to swap to a more secure social network
 
-
 ##	6.	User Requirements: The requirements of the project, as specified by the user.
+The user wants a means of broadcasting and sharing information peer-to-peer, that is not dependent on internet infrastructure.
+
+The user wants to keep control of their data and keep content and meta-data private.
+
+The user wants an easy to use and clean interface to send private messages to specific people, as well as publicly broadcast information.
+
+The user wants a self tailored newsfeed showing all information relevant to them.
+
+The user wants to get notified when new messages come in.
+
+The user wants to be able to block undesired content.
 
 ##  6.5 Problems encountered
 ### Security issues with node modules

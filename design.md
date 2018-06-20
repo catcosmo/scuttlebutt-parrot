@@ -74,35 +74,53 @@ Description: has aboslutly no technical understanding but is wants to play along
 ## Design 0: Logo
 
 ## Design 1: Structure
+First we designed the structural elements (such as menus, notifications, icons) of the app.
 #### Window
+![Window](img/window.JPG)
 #### Top-Bar
+![Top-Bar](img/topbar.JPG)
+
+![Top-Bar](img/topbar2.JPG)
 #### Notifications
+![Notifications](img/notification.JPG)
 #### Menus
 ##### Left Navigation Drawer
+![Left Navigation Drawer](img/channel2.JPG)
 ##### Help Menu
+![Help Menu](img/help1.JPG)
+![Help Menu Search Results](img/help2.JPG)
 #### Content
+![Content](img/content.JPG)
 #### Post
+![Post](img/posts.JPG)
 #### Post Actions
+![Post Actions](img/postactions.JPG)
 
 ## Design 3: Paper Prototype (Low Fidelity Prototype)
+Our prototype is a paper frame of a smartphone. To simulate the app you insert a peper strip into the frame and slide it to the left. The different screens of the workflows and interactions will appear in the right order.
+There is little markers (red dots) on the bottom of the strip indicating the correct position of a given screen. Actions are highlighted in red.
 ### Workflows and Interactions
 #### 1. Connecting to Network (Node)
+![Start app and choose decentralised connection without internet](img/connect1.JPG)
+![Wait while app tries to find a node in the local network](img/connect2.JPG)
+![No node was found, Select connection through internet. b](img/connect3.JPG)
+![Connection established succesfully](img/connect4.JPG)
+
 #### 2. Show Thread / Look at Channel
-![Open left navigation drawer](img/channel1.jpg)
-![Select channels view](img/channel2.jpg)
-![Search for 'scu' and select scuba from results](img/channel3.jpg)
-![You are now in channel scuba](img/channel4.jpg)
+![Open left navigation drawer](img/channel1.JPG)
+![Select channels view](img/channel2.JPG)
+![Search for 'scu' and select scuba from results](img/channel3.JPG)
+![You are now in channel scuba](img/channel4.JPG)
 
 #### 3. Private Feed Message
-![Select messages (message in a bottle icon) from top bar](img/message1.jpg)
-![Select user from recent messages list](img/message2.jpg)
-![Select messages (message in a bottle icon) from top bar](img/message3.jpg)
-
+![Select messages (message in a bottle icon) from top bar](img/message1.JPG)
+![Select user from recent messages list](img/message2.JPG)
+![Scroll through message history or write a new message in the text field at the bottom of the screen](img/message3.JPG)
 
 #### 4. Search
-![Open search by clicking the magnifying glass in the top bar](img/search1.jpg)
-![Type the term you're after. The results are displayed while you type](img/search1.jpg)
+![Open search by clicking the magnifying glass in the top bar](img/search1.JPG)
+![Type the term you're after. The results are displayed while you type](img/search2.JPG)
 
-
-#### 5. Reply (Private or Public Message)
-#### 6. Join Pub
+#### 5. View Thread and Reply (Public Message)
+![Select *show thread* (speech bubble icon) from a post](img/reply1.JPG)
+![Type your reply](img/reply2.JPG)

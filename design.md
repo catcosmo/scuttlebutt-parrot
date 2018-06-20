@@ -1,4 +1,4 @@
-#Design Report
+# Design Report
 
 ## Interviews
 In the beginning of the design process wen conducted interviews with potential users of our software. The interviews were recorded and the transcribed. Following highest standard procedures in data security, all recordings are anonymised and given a pseudonym.
@@ -11,8 +11,6 @@ In the beginning of the design process wen conducted interviews with potential u
 #### 4 what do you expect from a network?
 #### 5 which experience could cloud the mood?
 #### 6 which experience you want never to happen?
-#### todo note -> estimated  questionnaire time 50' that mean arround 60
-#### questions - o.0 -
 #### 7 what are the important aspects of interaction for you?
 #### 8 what kind of usabilty you as a user do you expect?
 #### 9 What are the key elements for you on a social network site?
@@ -34,7 +32,7 @@ In the beginning of the design process wen conducted interviews with potential u
 ## Personas
 From the interviews and our initial peer group analysis we concluded personas.
 
-## 1 alex
+## 1 Alex
 Age: 15
 experience: newbie
 Internet usage: right after school up to 4 a day.
@@ -58,14 +56,14 @@ usage of Social networks: all the big networks
 Description: can use his phone while his work. So he wants to stay in contact mainly with his social group and share jokes and stories. There is no hesitation of changing the newwork
 if the social groups does it as well.
 
-## 4 marie
+## 4 Marie
 Age: 38
 experience: experienced user
 Internet usage: with work 10 hours a day
 usage of Social networks: only whatsapp
 Description: Has a depper understanding of all the data secutriy and privacy issues of those networks. Values privacy. But also wants to stay in contact with his close family. Searches for flaws in new networks.
 
-## 5 micha B.
+## 5 Micha B.
 Age: 45
 experience: newbie but heavy users.
 Internet usage: 8
@@ -90,7 +88,21 @@ Description: has aboslutly no technical understanding but is wants to play along
 ### Workflows and Interactions
 #### 1. Connecting to Network (Node)
 #### 2. Show Thread / Look at Channel
-#### 3. Search
-#### 4. Private Feed Message
+![Open left navigation drawer](img/channel1.jpg)
+![Select channels view](img/channel2.jpg)
+![Search for 'scu' and select scuba from results](img/channel3.jpg)
+![You are now in channel scuba](img/channel4.jpg)
+
+#### 3. Private Feed Message
+![Select messages (message in a bottle icon) from top bar](img/message1.jpg)
+![Select user from recent messages list](img/message2.jpg)
+![Select messages (message in a bottle icon) from top bar](img/message3.jpg)
+
+
+#### 4. Search
+![Open search by clicking the magnifying glass in the top bar](img/search1.jpg)
+![Type the term you're after. The results are displayed while you type](img/search1.jpg)
+
+
 #### 5. Reply (Private or Public Message)
 #### 6. Join Pub

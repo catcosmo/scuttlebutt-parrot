@@ -74,29 +74,29 @@ Description: has absolutely no technical understanding but is wants to play alon
 
 ## Design 1: Structure
 First we designed the structural elements (such as menus, notifications, icons) of the app.
-#### Window
+### Window
 ![Window](img/window.JPG)
-#### Top-Bar
+### Top-Bar
 ![Top-Bar](img/topbar.JPG)
 
 ![Top-Bar](img/topbar2.JPG)
-#### Notifications
+### Notifications
 ![Notifications](img/notification.JPG)
-#### Menus
-##### Left Navigation Drawer
+### Menus
+#### Left Navigation Drawer
 ![Left Navigation Drawer](img/channel2.JPG)
-##### Help Menu
+#### Help Menu
 ![Help Menu](img/help1.JPG)
 ![Help Menu Search Results](img/help2.JPG)
-#### Content
+### Content
 ![Content](img/content.JPG)
-#### Post
+### Post
 ![Post](img/posts.JPG)
-#### Post Actions
+### Post Actions
 ![Post Actions](img/postactions.JPG)
 
 ## Design 3: Paper Prototype (Low Fidelity Prototype)
-Our prototype is a paper frame of a smartphone. To simulate the app you insert a peper strip into the frame and slide it to the left. The different screens of the workflows and interactions will appear in the right order.
+Our prototype is a paper frame of a smartphone. To simulate the app you insert a paper strip into the frame and slide it to the left. The different screens of the workflows and interactions will appear in the right order.
 There is little markers (red dots) on the bottom of the strip indicating the correct position of a given screen. Actions are highlighted in red.
 ### Workflows and Interactions
 #### 1. Connecting to Network (Node)
